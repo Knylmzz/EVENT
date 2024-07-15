@@ -1,0 +1,13 @@
+{
+    "en": {
+        "welcome": "Welcome",
+        "hello": "Hello"
+    },
+    "tr": {
+        "welcome": "Hoşgeldiniz",
+        "hello": "Merhaba",
+        "title": "KaanProjesi",
+        "menuHome":"Anasayfa",
+        "menuContact":"İletişim"
+    }
+}
